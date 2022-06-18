@@ -1,5 +1,5 @@
-
 <h1 align="center">OPLDT</h1>
+<h1 align="center">OPLDT has been changed to <a href="https://github.com/I2rys/ZeroPLDT">ZeroPLDT</a></h1>
 <h4 align="center">Just some stuff about PLDT</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/OPLDT/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/OPLDT?style=flat-square"></img></a>
